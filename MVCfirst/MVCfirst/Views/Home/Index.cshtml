@@ -1,0 +1,50 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <strong>ASP.NET MVC</strong>
+</div>
+
+<tr class="form-group">
+    @using (Html.BeginForm())
+    {
+        <table align="center">
+            <tr>
+                <td align="center">
+                    @Html.Label("EmployeeID:")
+                    @Html.TextBox("Emp_Id")
+                </td>
+            </tr>
+
+            <tr>
+                <td align="center">
+                    @Html.Label("EmployeeName:")
+                    @Html.TextBox("Emp_Name")
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    @Html.Label("EmployeeAdd:")
+                    @Html.TextBox("Emp_Add")
+                </td>
+            </tr>
+
+            <tr>
+                <td align="center">
+                    <input type="submit" value="Submit" class="btn-primary" />
+                </td>
+
+            </tr>
+            <tr>
+                <td>
+
+                    @ViewBag.SucessMessage
+                </td>
+            </tr>
+
+        </table>
+
+
+
+    }

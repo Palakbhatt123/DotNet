@@ -1,0 +1,15 @@
+C:\Users\Palak\source\repos\ClasslibImplementation\CopyConstructor\bin\Debug\net5.0\CopyConstructor.exe
+C:\Users\Palak\source\repos\ClasslibImplementation\CopyConstructor\bin\Debug\net5.0\CopyConstructor.deps.json
+C:\Users\Palak\source\repos\ClasslibImplementation\CopyConstructor\bin\Debug\net5.0\CopyConstructor.runtimeconfig.json
+C:\Users\Palak\source\repos\ClasslibImplementation\CopyConstructor\bin\Debug\net5.0\CopyConstructor.runtimeconfig.dev.json
+C:\Users\Palak\source\repos\ClasslibImplementation\CopyConstructor\bin\Debug\net5.0\CopyConstructor.dll
+C:\Users\Palak\source\repos\ClasslibImplementation\CopyConstructor\bin\Debug\net5.0\CopyConstructor.pdb
+C:\Users\Palak\source\repos\ClasslibImplementation\CopyConstructor\obj\Debug\net5.0\CopyConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Palak\source\repos\ClasslibImplementation\CopyConstructor\obj\Debug\net5.0\CopyConstructor.AssemblyInfoInputs.cache
+C:\Users\Palak\source\repos\ClasslibImplementation\CopyConstructor\obj\Debug\net5.0\CopyConstructor.AssemblyInfo.cs
+C:\Users\Palak\source\repos\ClasslibImplementation\CopyConstructor\obj\Debug\net5.0\CopyConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Palak\source\repos\ClasslibImplementation\CopyConstructor\obj\Debug\net5.0\CopyConstructor.dll
+C:\Users\Palak\source\repos\ClasslibImplementation\CopyConstructor\obj\Debug\net5.0\refint\CopyConstructor.dll
+C:\Users\Palak\source\repos\ClasslibImplementation\CopyConstructor\obj\Debug\net5.0\CopyConstructor.pdb
+C:\Users\Palak\source\repos\ClasslibImplementation\CopyConstructor\obj\Debug\net5.0\CopyConstructor.genruntimeconfig.cache
+C:\Users\Palak\source\repos\ClasslibImplementation\CopyConstructor\obj\Debug\net5.0\ref\CopyConstructor.dll

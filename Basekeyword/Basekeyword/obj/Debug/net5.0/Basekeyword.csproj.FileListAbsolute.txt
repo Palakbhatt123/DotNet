@@ -1,0 +1,15 @@
+C:\Users\Palak\source\repos\Basekeyword\Basekeyword\bin\Debug\net5.0\Basekeyword.exe
+C:\Users\Palak\source\repos\Basekeyword\Basekeyword\bin\Debug\net5.0\Basekeyword.deps.json
+C:\Users\Palak\source\repos\Basekeyword\Basekeyword\bin\Debug\net5.0\Basekeyword.runtimeconfig.json
+C:\Users\Palak\source\repos\Basekeyword\Basekeyword\bin\Debug\net5.0\Basekeyword.runtimeconfig.dev.json
+C:\Users\Palak\source\repos\Basekeyword\Basekeyword\bin\Debug\net5.0\Basekeyword.dll
+C:\Users\Palak\source\repos\Basekeyword\Basekeyword\bin\Debug\net5.0\Basekeyword.pdb
+C:\Users\Palak\source\repos\Basekeyword\Basekeyword\obj\Debug\net5.0\Basekeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Palak\source\repos\Basekeyword\Basekeyword\obj\Debug\net5.0\Basekeyword.AssemblyInfoInputs.cache
+C:\Users\Palak\source\repos\Basekeyword\Basekeyword\obj\Debug\net5.0\Basekeyword.AssemblyInfo.cs
+C:\Users\Palak\source\repos\Basekeyword\Basekeyword\obj\Debug\net5.0\Basekeyword.csproj.CoreCompileInputs.cache
+C:\Users\Palak\source\repos\Basekeyword\Basekeyword\obj\Debug\net5.0\Basekeyword.dll
+C:\Users\Palak\source\repos\Basekeyword\Basekeyword\obj\Debug\net5.0\refint\Basekeyword.dll
+C:\Users\Palak\source\repos\Basekeyword\Basekeyword\obj\Debug\net5.0\Basekeyword.pdb
+C:\Users\Palak\source\repos\Basekeyword\Basekeyword\obj\Debug\net5.0\Basekeyword.genruntimeconfig.cache
+C:\Users\Palak\source\repos\Basekeyword\Basekeyword\obj\Debug\net5.0\ref\Basekeyword.dll

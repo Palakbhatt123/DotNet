@@ -1,0 +1,7 @@
+C:\Users\Palak\source\repos\Abtract Class\Abtract Class\bin\Debug\Abtract Class.exe.config
+C:\Users\Palak\source\repos\Abtract Class\Abtract Class\bin\Debug\Abtract Class.exe
+C:\Users\Palak\source\repos\Abtract Class\Abtract Class\bin\Debug\Abtract Class.pdb
+C:\Users\Palak\source\repos\Abtract Class\Abtract Class\obj\Debug\Abtract Class.csproj.AssemblyReference.cache
+C:\Users\Palak\source\repos\Abtract Class\Abtract Class\obj\Debug\Abtract Class.csproj.CoreCompileInputs.cache
+C:\Users\Palak\source\repos\Abtract Class\Abtract Class\obj\Debug\Abtract Class.exe
+C:\Users\Palak\source\repos\Abtract Class\Abtract Class\obj\Debug\Abtract Class.pdb

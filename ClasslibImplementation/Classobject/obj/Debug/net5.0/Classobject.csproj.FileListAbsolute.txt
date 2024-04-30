@@ -1,0 +1,15 @@
+C:\Users\Palak\source\repos\ClasslibImplementation\Classobject\bin\Debug\net5.0\Classobject.exe
+C:\Users\Palak\source\repos\ClasslibImplementation\Classobject\bin\Debug\net5.0\Classobject.deps.json
+C:\Users\Palak\source\repos\ClasslibImplementation\Classobject\bin\Debug\net5.0\Classobject.runtimeconfig.json
+C:\Users\Palak\source\repos\ClasslibImplementation\Classobject\bin\Debug\net5.0\Classobject.runtimeconfig.dev.json
+C:\Users\Palak\source\repos\ClasslibImplementation\Classobject\bin\Debug\net5.0\Classobject.dll
+C:\Users\Palak\source\repos\ClasslibImplementation\Classobject\bin\Debug\net5.0\Classobject.pdb
+C:\Users\Palak\source\repos\ClasslibImplementation\Classobject\obj\Debug\net5.0\Classobject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Palak\source\repos\ClasslibImplementation\Classobject\obj\Debug\net5.0\Classobject.AssemblyInfoInputs.cache
+C:\Users\Palak\source\repos\ClasslibImplementation\Classobject\obj\Debug\net5.0\Classobject.AssemblyInfo.cs
+C:\Users\Palak\source\repos\ClasslibImplementation\Classobject\obj\Debug\net5.0\Classobject.csproj.CoreCompileInputs.cache
+C:\Users\Palak\source\repos\ClasslibImplementation\Classobject\obj\Debug\net5.0\Classobject.dll
+C:\Users\Palak\source\repos\ClasslibImplementation\Classobject\obj\Debug\net5.0\refint\Classobject.dll
+C:\Users\Palak\source\repos\ClasslibImplementation\Classobject\obj\Debug\net5.0\Classobject.pdb
+C:\Users\Palak\source\repos\ClasslibImplementation\Classobject\obj\Debug\net5.0\Classobject.genruntimeconfig.cache
+C:\Users\Palak\source\repos\ClasslibImplementation\Classobject\obj\Debug\net5.0\ref\Classobject.dll
